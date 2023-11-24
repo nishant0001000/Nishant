@@ -1698,10 +1698,7 @@
      * #CONTACT
      */
   
-    .mapbox {
-      height: 380px;
-      border-radius: 18px;
-    }
+    
   
     .input-wrapper {
       gap: 30px;
@@ -1811,8 +1808,9 @@
     /**
      * CONTACT
      */
-  
+     
     .input-wrapper { grid-template-columns: 1fr 1fr; }
+    
   
     .form-btn {
       width: max-content;
